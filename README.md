@@ -15,5 +15,6 @@ Intel i5-6200u HD520核显
 ![image](https://user-images.githubusercontent.com/22268447/115813863-9591b980-a426-11eb-8dcd-65bbd1e78653.png)  
 ![Snipaste_2021-04-23_11-26-28](https://user-images.githubusercontent.com/22268447/115814055-edc8bb80-a426-11eb-8fa6-74601e374230.png)  
 ![Snipaste_2021-04-23_11-24-28](https://user-images.githubusercontent.com/22268447/115814117-089b3000-a427-11eb-8567-db817390aa1c.png)
+![image](https://user-images.githubusercontent.com/22268447/115814677-1ef5bb80-a428-11eb-9eb0-3fbbbb2acff4.png)
 
 
